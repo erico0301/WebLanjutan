@@ -1,3 +1,0 @@
-Tugas 01
-Bagian :  C 
-Topik  : Mengimplementasikan metode async & sync, dan request & respon
